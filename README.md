@@ -1,2 +1,2 @@
 # Repositories_to_explore
-Free Public Source Repositories
+Free Open Source Repositories
